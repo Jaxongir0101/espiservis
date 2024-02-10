@@ -1,4 +1,4 @@
-package com.example.espiservis
+package uz.jakhongir.espiservis
 
 import io.flutter.embedding.android.FlutterActivity
 
